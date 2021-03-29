@@ -1,9 +1,9 @@
 ![Banner](images/banner.jpg)
 
-# hackaton-mars-2021
-Projet Hackaton Mars 2021 de l'école ÉSTIAM. 
+# hackathon-mars-2021
+Projet Hackathon Mars 2021 de l'école ÉSTIAM. 
 
-## There is our Hackaton 2021 project.
+## There is our Hackathon 2021 project.
 
 We aiming to update the [Hope Foundation](https://www.hope-found.org/) website.
 Our plan is to make this website cleaner and most of all to glow up.
