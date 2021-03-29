@@ -5,9 +5,9 @@ Projet Hackaton Mars 2021 de l'école ÉSTIAM.
 
 ## There is our Hackaton 2021 project.
 
-We aiming to update the [Hope Foundation](https://www.hope-found.org/).
+We aiming to update the [Hope Foundation](https://www.hope-found.org/) website.
 Our plan is to make this website cleaner and most of all to glow up.
-Plus we are aiming to reach the CEO's and to reach the most of persons possibles with a lot of news widgets and tools.
+Plus we are aiming to reach the SEO's and to reach the most of persons possibles with a lot of news widgets and tools.
 We plan to help HF the most possible.
 
 ## About Hope Foundation
