@@ -3,7 +3,7 @@
 # hackathon-mars-2021
 Projet Hackathon Mars 2021 de l'école ÉSTIAM. 
 
-## There is our Hackathon 2021 project.
+## There is our first Hackathon project of 2021.
 
 We aiming to update the [Hope Foundation](https://www.hope-found.org/) website.
 Our plan is to make this website cleaner and most of all to glow up.
