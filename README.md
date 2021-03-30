@@ -23,7 +23,7 @@ We plan to help HF the most possible.
 | grabux | [Profile](https://github.com/grabux)  |
 | Ali Yahia Cherif | [Profile](https://github.com/21-Eyeshield)  |
 | ghost9333 | [Profile](https://github.com/ghost9333)  | https://github.com/De-Chancel
-| ghost9333 | [De Chancel](https://github.com/De-Chancel)  | 
+| De Chancel | [Profile](https://github.com/De-Chancel)  | 
 
 
 ## About us
