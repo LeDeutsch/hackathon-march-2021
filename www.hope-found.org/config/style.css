@@ -6,6 +6,11 @@
 	li {
 		margin-left: 40px;
 	}
+	head {
+		height: 450px;
+		width: auto;
+		background: teal;
+	}
 	
 	body { 
 		background: white;
@@ -47,29 +52,30 @@
 	p {
 		font-size: 12px;
 		padding: 6px;
+	
 	}
 	
 	#header_top {
 		margin: 0 auto;
-		width: 100%;
+		width: 996px;
 	}
 	
 	#footer {
 		padding: 6px;
 		margin: 0 auto;
-		width: 100%;
+		width: 996px;
 		height: 28px;
 		text-align: center;
 	}
 	
 	#sitewrapper {
 		margin: 0 auto;
-		width: 100%;
+		width: 996px;
 	}
 	
 	#header_top_text_wrapper { 
 		padding: 12px 5px 0px 5px;
-		width: 100%;
+		width: 996px;
 		color: #626262;
 		font-size: 10px;
 		font-weight: bold;
@@ -89,6 +95,8 @@
 		margin-top: 5px;
 		width: 100%;
 			height: 178px;
+			margin-left: 0px;
+		
 	}
 	
 	#header_text {
@@ -99,7 +107,7 @@
 		font-weight: bold;
 	}
 #menuwrapper {
-	width: 100%;
+	width: 996px;
 	background: #333;
 	margin: 0 auto;
 }
@@ -497,7 +505,7 @@
 }
 
 #content-wrapper {
-	width: 100%;
+	width: 996px;
 	margin: 0px auto;
 }
 
