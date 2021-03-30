@@ -17,7 +17,7 @@ We plan to help HF the most possible.
 
 ## Contributors
 
-| Contributors to the project | profile link |
+| Contributors | profile link |
 | ------ | ------ |
 | LeDeutsch | [Profile](https://github.com/LeDeutsch)  |
 | grabux | [Profile](https://github.com/grabux)  |
