@@ -45,49 +45,40 @@ footer {
     transition: 3s;
 }
 
-.image.active .sub-title{ 
-    opacity: 1;
-    visibility: visible;
-}
+.text-container {
+	width: 98%;
+	height: 100%;
+	margin-left: -10px;
+	padding: 1rem;
+	visibility: hidden;
+	transform: translateY(300px);
+	opacity: 0;
+	transition: all .4s ease;
+	background: linear-gradient(354deg, black 0%, transparent 72%);
+	color: white;
+	overflow: hidden;
+  }
+  .text {
+	position: absolute;
+	bottom: 5rem;
+  }
+  .active .text-container {
+	visibility: visible;
+	transform: translateY(0px);
+	opacity: 1;
+	transition: 3s;
+  }
 
-.image .sub-title {
-    opacity: 0;
-    visibility: hidden;
-}
-
-.sub-title{
-    width: 80%;
-    margin-top: 45%;
-    margin-left: 5%;
-    margin-right: 10%;
-    visibility: hidden;
-    position: absolute;
-    opacity: 0;
-    font-size: 50px;
-    color: white;
-}
-
-.text-container{
-    width: 80%;
-    margin-top: 45%;
-    margin-left: 5%;
-    margin-right: 10%;
-    visibility: hidden;
-    position: absolute;
-    opacity: 0;
-    font-size: 50px;
-    color: white;
-}
-
-.image .text-container {
-    opacity: 1;
-    visibility: visible;
-}
-
-.image.active .text-container{ 
-    opacity: 0;
-    visibility: hidden;
-}
+  .active .text-container h3 {
+	text-shadow:black 2px 5px;
+	visibility: visible;
+	transform: translateY(0px);
+	opacity: 1;
+	font-size: 85px;
+	padding: 8rem;
+	text-align: center;
+	transition: 3s;
+  }
 
 
 li {
