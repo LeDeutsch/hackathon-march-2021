@@ -1,11 +1,48 @@
 .main{
+	position: relative;
 	background-color: #33383b;
 	margin: 2rem auto;
 	width: 996px;
 	height: 62vh;
-	text-align: center;
+	text-align: left;
+	color: white;
 }
 
+.content-main{
+	margin-left: 50px;
+	height: 62vh;
+	padding: 1rem;
+	position: fixed;
+
+}
+
+.content-main p{
+	padding: 10px;
+}
+
+.content-main h3{
+	margin-left: -40px;
+	font-size: 18px;
+}
+
+.content-main h4{
+	text-shadow: black 1px 0 10px;
+}
+
+.button:hover{
+	background-color: lightgreen;
+	transition: 1s;
+}
+
+.button{
+	cursor: pointer;
+	margin-top: 30px;
+	text-align: center;
+	height: 35px;
+	color: black;
+	background-color: white;
+	position: fixed;
+}
 
 .banner {
 	padding: 10px;
@@ -221,14 +258,6 @@ h1 {
 	color: white;
 }
 
-h2 {
-	font-size: 13px;
-	color: #3c3c3c;
-	font-weight: bold;
-	margin: 0px;
-	margin-left: 6px;
-	padding: 3px 0px;
-}
 
 h4 {
 	font-size: 14px;
