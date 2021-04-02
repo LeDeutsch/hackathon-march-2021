@@ -1,3 +1,18 @@
+.footer-content{
+	color: white;
+	padding: 10px;
+	text-align: left;
+	margin-top: -55px;
+}
+
+.footer-content-two{
+	position: fixed;
+	color: white;
+	text-align: right;
+	margin-top: -88px;
+	margin-left: 700px;
+}
+
 .main{
 	position: relative;
 	background-color: #33383b;
@@ -35,6 +50,7 @@
 }
 
 .button{
+	border-radius: 10px;
 	cursor: pointer;
 	margin-top: 30px;
 	text-align: center;
@@ -81,6 +97,7 @@
 	overflow: hidden;
 	position: relative;
 }
+
 
 footer {
 	background: #33383b;
